@@ -1,0 +1,16 @@
+Dataset:  hairlength.dat
+
+Source: C. Robbins and M.G. Robbins (2003). "Scalp hair Length. I. Hair
+Length in Florida Theme Parks: An Approximation of Hair Length in
+the United states of America," Journal of Cosmetic Science, Vol. 54,
+pp. 53-62
+
+Description: Classification of a sample of 2400 US women by Hair Length and 
+Age:
+Hair Length: 1=Short, 2=Medium, 3=Long
+Age:  1=14-24, 2=25-34, 3=35-49, 4=50-60
+
+Variables/Columns
+Age     8
+Hair Length    16
+Count       20-24

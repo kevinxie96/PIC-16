@@ -1,0 +1,19 @@
+Dataset:  tombstone.dat
+
+Source: T.C.Meierding(1993)."Marble Tombstone Weathering and Air Pollution 
+in North America", Annals of the Association of American Geographers,
+Vol.83,#4pp.568-588
+
+Description: Marble Tombstone Mean Surface Recession Rates and Mean SO2
+concentrations over a 100 year period. Note: Data are interpolated from
+a graph and regression coefficients differ from authors results by a
+small amount.
+
+Variables/Columns
+
+City 1-24
+Modelled 100-Year Mean SO2 Concentration (ug/m**3)  27-29
+Marble Tombstone Mean Surface Recession Rate (mm/100years)  34-37
+
+
+
